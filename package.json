@@ -1,0 +1,17 @@
+{
+  "name": "@coffer-network/sdk-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {},
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://"
+  },
+  "private": false,
+  "author": "",
+  "description": ""
+}
